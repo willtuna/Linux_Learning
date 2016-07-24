@@ -1,0 +1,10 @@
+F S   UID    PID   PPID  C PRI  NI ADDR SZ WCHAN  TTY          TIME CMD
+
+0 S  1000   2637   2626  0  80   0 -  5686 wait   pts/6    00:00:00 bash
+
+0 R  1000   3351   2637  0  80   0 -  7309 -      pts/6    00:00:00 ps
+
+total 4
+
+-rw-rw-r-- 1 willvegapunk willvegapunk 216  6月 29 23:45 test
+
